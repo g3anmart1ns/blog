@@ -6,4 +6,4 @@ order: 4
 
 # Olá!
 
-![About](/assets/img/about1.webp)
+![About](/assets/img/about.webp)
