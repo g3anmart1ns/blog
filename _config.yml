@@ -9,27 +9,27 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Belem
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Baú Digital
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Memórias Eternizadas num Clique
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  No 'Baú Digital', cada artigo é mais do que simples leitura; é um convite para rir da nossa própria complexidade tecnológica, enquanto buscamos significado entre scripts e chips. Venha para explorar, fique para refletir — e, quem sabe, até esboçar um sorriso enquanto enfrentamos juntos a eternidade de um servidor alugado.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: g3anmart1ns # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: _geanmartins # change to your twitter username
 
 social:
   # Change to your full name.
