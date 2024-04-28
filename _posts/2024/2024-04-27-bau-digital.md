@@ -3,7 +3,7 @@ title: "Baú Digital"
 date: 2024-04-27 18:50:00 -0300
 categories: [Eureka, Contrdições]
 tags: [ironia, begin, chest]
-image: /assets/img/avatar-bau.webp
+image: /assets/img/avatar.webp
 alt: "Image alt text"
 ---
 
