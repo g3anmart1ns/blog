@@ -118,9 +118,7 @@ Garantir a conformidade com direitos autorais é essencial no desenvolvimento de
 ## Sugestões de Melhorias
 
 ### Casos de Uso Específicos
-- **Exemplos Práticos:** Incluir casos de uso específicos onde o GPT ten
-
-ha sido aplicado com sucesso pode ajudar a ilustrar como a tecnologia pode ser utilizada de maneira prática e eficaz.
+- **Exemplos Práticos:** Incluir casos de uso específicos onde o GPT tenha sido aplicado com sucesso pode ajudar a ilustrar como a tecnologia pode ser utilizada de maneira prática e eficaz.
 
 ### Detalhamento Técnico
 - **Arquitetura de Modelo:** Oferecer detalhes sobre a arquitetura do GPT, incluindo discussões sobre o ajuste fino de modelos pré-treinados e otimização de performance.
