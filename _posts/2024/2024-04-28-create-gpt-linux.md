@@ -48,8 +48,11 @@ Identifique e descreva as personas dos usuários que mais se beneficiarão do GP
 Desenvolva métodos para integrar o GPT com ferramentas de TI existentes, como sistemas de gestão de configuração e plataformas de monitoramento, para fornecer uma experiência de usuário unificada e aumentar a eficiência.
 
 ### Exemplos de Integração
-- **Puppet:** Automatização da configuração de sistemas Linux.
-- **Nagios:** Monitoramento integrado e alertas através do GPT.
+- **Ansible:** Automatização da configuração de sistemas Linux.
+   - Utilize o Ansible para automatizar a configuração e o gerenciamento de sistemas Linux. O GPT pode ser integrado para gerar scripts dinâmicos de Ansible com base em requisitos específicos de configuração ou para sugerir otimizações em scripts existentes, melhorando assim a eficiência operacional.
+
+- **Zabbix:** Monitoramento integrado e alertas através do GPT.
+   - Integre o GPT com o Zabbix para enriquecer a capacidade de monitoramento. O GPT pode analisar automaticamente os dados de monitoramento gerados pelo Zabbix, proporcionando insights e recomendações avançadas ou até mesmo automatizando respostas a alertas com base em padrões detectados anteriormente.
 
 ## Passo 3: Estratégias de Validação e Teste
 Implemente estratégias de validação e teste para garantir a eficácia e a confiabilidade do GPT antes de seu lançamento.
