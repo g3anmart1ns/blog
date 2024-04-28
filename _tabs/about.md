@@ -6,6 +6,8 @@ order: 4
 
 ### Sobre Mim
 
+![About](/assets/img/about.webp)
+
 Olá! Meu nome é [Seu Nome] e sou formado em Computação em Nuvem pela UNOPAR. Tenho mais de uma década de experiência na área de Tecnologia da Informação, uma jornada que começou em um provedor de internet, onde atuei como técnico de suporte. Essa experiência inicial foi a porta de entrada para o vasto mundo da TI, que me levou a explorar e aprofundar meu conhecimento em infraestrutura.
 
 Ao longo dos anos, desenvolvi habilidades em virtualização com VMWare, administração de sistemas operacionais Linux e Windows, além de monitoramento e gerenciamento de servidores de e-mail, como o Zimbra, além de outras tecnologias que, embora algumas tenham se tornado obsoletas ou caído em desuso, foram essenciais para o meu desenvolvimento profissional. O dinamismo da tecnologia sempre me motivou a estar em constante aprendizado. Atualmente, me concentro em áreas como computação em nuvem, automação, DevOps e infraestrutura como código, campos que representam a vanguarda do desenvolvimento tecnológico e que são fundamentais para qualquer profissional de TI que deseje permanecer relevante em uma indústria que nunca para de evoluir.
@@ -18,6 +20,6 @@ A leitura é outra paixão. Minha biblioteca é um reflexo dos diversos gêneros
 
 Obrigado por visitar meu blog. Espero que as histórias e insights compartilhados aqui inspirem e enriqueçam sua jornada tanto quanto enriquecem a minha.
 
-![About](/assets/img/about.webp){: w="700" h="400" }
+
 
 
