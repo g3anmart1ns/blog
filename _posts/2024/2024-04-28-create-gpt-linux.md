@@ -53,9 +53,7 @@ Implemente estratégias de validação e teste para garantir a eficácia e a con
 - **Testes A/B:** Comparar diferentes versões do GPT para determinar qual é mais eficaz.
 - **Feedback de Usuário:** Coletar e analisar feedback durante os estágios de desenvolvimento.
 
-## Passo 4:
-
- Documentação e Suporte
+## Passo 4: Documentação e Suporte
 Forneça documentação detalhada e recursos de suporte para ajudar os usuários a maximizar o uso do GPT.
 
 ### Recursos Incluídos
