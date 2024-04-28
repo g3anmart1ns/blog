@@ -2,9 +2,6 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
----
-
----
 title: "Sobre Mim"
 description: "Conheça mais sobre Gean Martins e sua trajetória profissional em TI."
 ---
@@ -20,7 +17,7 @@ Olá! Meu nome é Gean Martins e sou formado em Computação em Nuvem pela UNOPA
 - **Monitoramento e gerenciamento de servidores de e-mail**: Experiência com diversas ferramentas de monitoramento para assegurar alta disponibilidade e desempenho.
 - **Computação em nuvem, automação, DevOps e infraestrutura como código**: Atualmente, concentro meus esforços nestas áreas, que estão na vanguarda do desenvolvimento tecnológico.
 
-Minha paixão pelo open source e Linux, que devo ao professor [Wairisson](https://www.linkedin.com/in/wairisson-gomes) por ter me introduzido a esse universo, continua a ser uma chama que me inspira diariamente. Acredito que o constante estado de mudança é o que define uma carreira em TI, e estou sempre pronto para me adaptar e evoluir com as novas tendências tecnológicas.
+Minha paixão pelo open source e Linux, que devo ao professor [Wairisson][def] por ter me introduzido a esse universo, continua a ser uma chama que me inspira diariamente. Acredito que o constante estado de mudança é o que define uma carreira em TI, e estou sempre pronto para me adaptar e evoluir com as novas tendências tecnológicas.
 
 ### Hobbies e Interesses Pessoais
 - **Música**: Sou um entusiasta da música e toco violão, o que me permite expressar minha criatividade de uma forma diferente.
@@ -32,3 +29,6 @@ Obrigado por visitar meu blog. Espero que as histórias e insights compartilhado
 
 
 
+
+
+[def]: https://www.linkedin.com/in/wairisson-gomes
