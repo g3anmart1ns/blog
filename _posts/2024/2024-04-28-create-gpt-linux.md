@@ -44,14 +44,6 @@ Identifique e descreva as personas dos usuários que mais se beneficiarão do GP
 - **Administrador de Sistemas:** Busca dicas avançadas e automação de tarefas.
 - **Desenvolvedor de Software:** Interessado em integrações e otimizações de código.
 
-## Passo 1: Definição de Personas de Usuário
-Identifique e descreva as personas dos usuários que mais se beneficiarão do GPT, considerando diferentes níveis de expertise em Linux, desde novatos a especialistas. Isso ajudará a personalizar as interações e funcionalidades do GPT.
-
-### Exemplo de Persona
-- **Novato em Linux:** Precisa de explicações básicas e guias passo a passo.
-- **Administrador de Sistemas:** Busca dicas avançadas e automação de tarefas.
-- **Desenvolvedor de Software:** Interessado em integrações e otimizações de código.
-
 ## Passo 2: Integração com Ferramentas de TI
 Desenvolva métodos para integrar o GPT com ferramentas de TI existentes, como sistemas de gestão de configuração e plataformas de monitoramento, para fornecer uma experiência de usuário unificada e aumentar a eficiência.
 
