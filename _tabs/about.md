@@ -6,8 +6,6 @@ title: "Sobre Mim"
 description: "Conheça mais sobre Gean Martins e sua trajetória profissional em TI."
 ---
 
-# Sobre Mim
-
 ![About](/assets/img/about.webp)
 
 Olá! Meu nome é Gean Martins e sou formado em Computação em Nuvem pela UNOPAR. Com mais de uma década de experiência na área de Tecnologia da Informação, minha carreira começou em um provedor de internet como técnico de suporte. Esta experiência inicial foi a porta de entrada para o vasto mundo da TI, que me levou a explorar e aprofundar meu conhecimento em diversas áreas.
