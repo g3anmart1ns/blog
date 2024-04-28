@@ -73,8 +73,12 @@ Forneça documentação detalhada e recursos de suporte para ajudar os usuários
 Assegure que o GPT cumpra todas as regulamentações de segurança e privacidade relevantes, especialmente em ambientes que manipulam dados sensíveis.
 
 ### Diretrizes de Segurança
-- **Conformidade com GDPR:** Implementar medidas para proteger dados pessoais.
-- **Segurança de Dados:** Estratégias para garantir a integridade e confidencialidade das informações.
+- **Conformidade com LGPD:** A Lei Geral de Proteção de Dados Pessoais (LGPD) é a legislação brasileira que regula o tratamento de dados pessoais de indivíduos localizados no Brasil. As empresas devem garantir a transparência no uso de dados pessoais, garantir a segurança dos mesmos, e permitir que os usuários exerçam seus direitos de acesso, correção e exclusão de seus dados. Além disso, é crucial designar um Encarregado de Proteção de Dados (DPO) para atender às demandas e direitos dos titulares dos dados.
+- **Segurança de Dados:** Estratégias para garantir a integridade e confidencialidade das informações. Isso pode incluir a implementação de medidas de segurança como criptografia de dados, auditorias regulares de segurança e protocolos de acesso restrito a informações sensíveis.
+
+### Implementação Prática
+- **Medidas Técnicas:** Utilize ferramentas e técnicas como criptografia, firewalls, e sistemas de detecção de intrusão para proteger dados contra acessos não autorizados e vazamentos.
+- **Medidas Organizacionais:** Realize treinamentos regulares sobre proteção de dados para funcionários, estabeleça políticas claras de privacidade e segurança, e assegure que parceiros e terceiros também cumpram com essas políticas.
 
 ## Passo 6: Multilinguismo e Localização
 Adapte o GPT para suportar múltiplos idiomas e contextos culturais, garantindo que seja acessível a uma base de usuários global.
