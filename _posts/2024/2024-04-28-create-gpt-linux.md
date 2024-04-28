@@ -58,9 +58,7 @@ Desenvolva métodos para integrar o GPT com ferramentas de TI existentes, como s
 Implemente estratégias de validação e teste para garantir a eficácia e a confiabilidade do GPT antes de seu lançamento.
 
 ### Métodos de Teste
-- **Testes A/B:** Comparar diferentes versões do GPT para determinar
-
- qual é mais eficaz.
+- **Testes A/B:** Comparar diferentes versões do GPT para determinar qual é mais eficaz.
 - **Feedback de Usuário:** Coletar e analisar feedback durante os estágios de desenvolvimento.
 
 ## Passo 4: Documentação e Suporte
