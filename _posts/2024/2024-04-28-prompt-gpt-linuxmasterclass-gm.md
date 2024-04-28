@@ -1,5 +1,5 @@
 ---
-title: "Prompts para a Criação do GPT \"LinuxMasterclass GM\""
+title: "Prompts para a Criação do GPT LinuxMasterclass GM"
 date: 2024-04-28 18:02:00 -0300
 categories: [IA, GPT, ChatGPT, Linux]
 tags: [ia, gpt, chatgpt, linux]
