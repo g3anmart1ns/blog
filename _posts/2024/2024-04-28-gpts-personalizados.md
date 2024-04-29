@@ -8,7 +8,6 @@ image: /assets/img/gpt-personalizado.webp
 alt: "Imagem representativa de um GPT personalizado"
 ---
 
----
 ## Sumário
 
 1. [Introdução](#introdução)
@@ -24,7 +23,6 @@ alt: "Imagem representativa de um GPT personalizado"
 11. [Implantação](#implantação)
 12. [Monitoramento e Manutenção](#monitoramento-e-manutenção)
 13. [Conclusão](#conclusão)
----
 
 ## Introdução
 
