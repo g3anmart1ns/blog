@@ -14,11 +14,10 @@ alt: "Imagem representativa de um GPT personalizado"
 2. [Definição de Objetivos](#definição-de-objetivos)
 3. [Coleta de Dados](#coleta-de-dados)
 4. [Aprimoramento e Segurança do GPT](#aprimoramento-e-segurança-do-gpt)
-5. [Monitoramento e Manutenção](#Monitoramento-e-manutenção)
+5. [Monitoramento e Manutenção](#monitoramento-e-manutenção)
 6. [Sugestões de Melhorias](#sugestões-de-melhorias)
 7. [Testes e Lançamento](#testes-e-lançamento)
-8. [Monitoramento e Manutenção](#monitoramento-e-manutenção)
-9. [Conclusão](#conclusão)
+8. [Conclusão](#conclusão)
 
 ## Introdução
 
