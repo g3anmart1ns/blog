@@ -8,8 +8,6 @@ image: /assets/img/linux-gpt.webp
 alt: "Imagem representativa de GPT para Linux"
 ---
 
-# Guia de Criação de um GPT Especializado em Linux
-
 ## Sumário
 
 1. [Introdução](#introdução)
