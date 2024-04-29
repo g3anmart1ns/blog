@@ -7,7 +7,7 @@ image: /assets/img/bau-post.webp
 alt: "Image alt text"
 ---
 
-# Introdução à Criação do GPT "LinuxMasterclass"
+# Introdução à Criação do GPT "LinuxMasterclass GM"
 
 Na busca constante por melhorias na eficiência e eficácia no ambiente de TI, especialmente para profissionais que trabalham com sistemas Linux, a criação de uma ferramenta automatizada que possa oferecer suporte técnico e educacional se torna essencial. Inspirado pelas contribuições significativas de personalidades notáveis no campo da tecnologia e educação, este guia detalha a criação do GPT "LinuxMasterclass GM".
 
