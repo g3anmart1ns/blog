@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Criação de um GPT Personalizado para Especialistas em Linux"
+title: "Guia de criação de um GPT Personalizado para Especialistas em Linux"
 date: 2024-04-29 13:57:00 -0300
 categories: [Tecnologia, Educação, IAs, Linux, GPT]
 tags: [Linux, GPT, Suporte Técnico]
