@@ -13,16 +13,17 @@ alt: "Imagem representativa de GPT para Linux"
 1. [Introdução](#introdução)
 2. [O que é um GPT e por que é importante criá-lo?](#o-que-é-um-gpt-e-por-que-é-importante-criá-lo)
 3. [Direitos Autorais](#direitos-autorais)
-4. [Passo 1: Colher Informações](#passo-1-colher-informações)
-5. [Passo 2: Combinar Características para Criar o GPT](#passo-2-combinar-características-para-criar-o-gpt)
-6. [Passo 3: Criação do GPT](#passo-3-criação-do-gpt)
-7. [Exemplos Visuais](#exemplos-visuais)
-8. [Recursos Adicionais](#recursos-adicionais)
-9. [Casos de Uso](#casos-de-uso)
-10. [Feedback e Avaliação Contínua](#feedback-e-avaliação-contínua)
-11. [Perguntas Frequentes (FAQ)](#perguntas-frequentes-faq)
-12. [Acessibilidade](#acessibilidade)
-13. [Conclusão](#conclusão)
+4. [Lei Geral de Proteção de Dados (LGPD)](#lei-geral-de-proteção-de-dados-lgpd)
+5. [Colher Informações](#colher-informações)
+6. [Combinar Características para Criar o GPT](#combinar-características-para-criar-o-gpt)
+7. [Criação do GPT](#criação-do-gpt)
+8. [Exemplos Visuais](#exemplos-visuais)
+9. [Recursos Adicionais](#recursos-adicionais)
+10. [Casos de Uso](#casos-de-uso)
+11. [Feedback e Avaliação Contínua](#feedback-e-avaliação-contínua)
+12. [Perguntas Frequentes (FAQ)](#perguntas-frequentes-faq)
+13. [Acessibilidade](#acessibilidade)
+14. [Conclusão](#conclusão)
 
 ## Introdução
 Este guia visa orientar desenvolvedores e entusiastas de TI na criação de um GPT customizado para Linux, integrando conhecimentos técnicos com insights de personalidades influentes na área da tecnologia. Este processo não só melhora as habilidades do usuário, mas também amplia as funcionalidades do GPT em aplicações práticas.
@@ -33,13 +34,16 @@ Um GPT (Generative Pre-trained Transformer) é um modelo de linguagem baseado em
 ## Direitos Autorais
 Ao desenvolver um GPT, é crucial garantir que todos os textos gerados respeitem os direitos autorais existentes. Isso significa que o modelo deve ser treinado de forma que evite plagiar ou reproduzir material protegido sem permissão. Utilizar apenas conjuntos de dados que são de domínio público ou para os quais você possui licenças adequadas é fundamental para evitar violações legais.
 
-## Passo 1: Colher Informações
+## Lei Geral de Proteção de Dados (LGPD)
+A Lei Geral de Proteção de Dados do Brasil (LGPD) regula o tratamento de dados pessoais de indivíduos no Brasil. Ao desenvolver um GPT que possa interagir com dados pessoais, é essencial implementar medidas que garantam a proteção desses dados conforme as diretrizes da LGPD. Isso inclui garantir que o consentimento seja obtido de maneira apropriada, que os dados sejam coletados e processados de forma segura, e que os usuários possam facilmente acessar, corrigir ou excluir suas informações.
+
+## Colher Informações
 Identifique líderes de pensamento e inovadores cujas ideias e métodos possam ser emulados no desenvolvimento do GPT. Documente suas contribuições mais significativas, estilos de trabalho, e impacto na tecnologia.
 
-## Passo 2: Combinar Características para Criar o GPT
+## Combinar Características para Criar o GPT
 Desenvolva algoritmos que refletem a lógica de Pareto para eficiência, a abordagem didática de Feynman para explicar complexidades, e a filosofia de código aberto de Torvalds para promover colaboração.
 
-## Passo 3: Criação do GPT
+## Criação do GPT
 Configure e treine o GPT com base nas características e diretrizes definidas. Utilize uma plataforma de desenvolvimento de IA para configurar o modelo de GPT, inserir os dados coletados, ajustar os parâmetros e iniciar o treinamento do modelo.
 
 ## Exemplos Visuais
