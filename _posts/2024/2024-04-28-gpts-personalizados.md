@@ -2,10 +2,10 @@
 layout: post
 title: "GPTs Personalizados"
 date: 2024-04-28
-categories: [Tutorial, Linux, AI, GPT]
-tags: [gpt, linux, ai, tutorial, direitos autorais, acessibilidade]
-image: /assets/img/linux-gpt.webp  
-alt: "Imagem representativa de GPT para Linux"
+categories: [Tutorial, AI, GPT]
+tags: [gpt, ai, tutorial, guia]
+image: /assets/img/gpt-personalizado.webp  
+alt: "Imagem representativa de um GPT personalizado"
 ---
 
 ---
