@@ -43,7 +43,14 @@ Ao desenvolver um GPT, é crucial garantir que todos os textos gerados respeitem
 A Lei Geral de Proteção de Dados do Brasil (LGPD) regula o tratamento de dados pessoais de indivíduos no Brasil. Ao desenvolver um GPT que possa interagir com dados pessoais, é essencial implementar medidas que garantam a proteção desses dados conforme as diretrizes da LGPD. Isso inclui garantir que o consentimento seja obtido de maneira apropriada, que os dados sejam coletados e processados de forma segura, e que os usuários possam facilmente acessar, corrigir ou excluir suas informações.
 
 ## Colher Informações
-Identifique líderes de pensamento e inovadores cujas ideias e métodos possam ser emulados no desenvolvimento do GPT. Documente suas contribuições mais significativas, estilos de trabalho, e impacto na tecnologia.
+
+**Objetivo:** Reunir insights valiosos e práticas recomendadas dos principais inovadores e pensadores no campo da tecnologia, especificamente aqueles que influenciaram significativamente o desenvolvimento de sistemas operacionais e inteligência artificial. Essas informações servirão como base para moldar os recursos e funcionalidades do GPT, garantindo que ele seja tanto inovador quanto prático para usuários finais.
+
+**Descrição Ajustada:**
+- Identifique líderes de pensamento e pioneiros cujas técnicas e abordagens inovadoras possam ser adaptadas para o desenvolvimento do GPT. Isso inclui figuras proeminentes como Linus Torvalds, Richard Feynman, e Andrew Tanenbaum, cujos trabalhos revolucionaram suas respectivas áreas.
+- Documente meticulosamente suas contribuições mais significativas para a tecnologia, com foco especial em como essas inovações podem ser aplicadas ou adaptadas para melhorar a funcionalidade e a usabilidade do GPT. Por exemplo, a abordagem de código aberto de Torvalds pode inspirar módulos de colaboração, enquanto a habilidade de Feynman em simplificar conceitos complexos pode ser utilizada para desenvolver interfaces de usuário mais intuitivas.
+- Analise os estilos de trabalho desses inovadores, especialmente como eles abordam problemas e desenvolvem soluções, para integrar estratégias semelhantes no design e implementação do GPT. Isso inclui, por exemplo, a utilização de métodos iterativos e feedback contínuo para refinamento constante do sistema.
+- Avalie o impacto dessas inovações no campo da tecnologia e preveja como elas podem ser escaladas ou adaptadas para futuras evoluções do GPT, garantindo que ele permaneça na vanguarda da tecnologia e continue relevante para as necessidades emergentes dos usuários.
 
 ### Prompt 1: Desenvolvimento do Princípio de Pareto no GPT
 
@@ -57,9 +64,9 @@ Identifique líderes de pensamento e inovadores cujas ideias e métodos possam s
 
 **Objetivo:** Facilitar o entendimento de conceitos complexos de Linux usando a abordagem didática de Richard Feynman.
 
-**Descrição:**
+**Descrição Ajustada:**
 - Programe o GPT para decompor conceitos técnicos avançados em explicações passo a passo simples e intuitivas.
-- Inclua exemplos práticos e visualizações para auxiliar na compreensão dos usuários.
+- Inclua exemplos práticos e visualizações interativas para auxiliar na compreensão dos usuários.
 
 ### Prompt 3: Promoção da Colaboração ao Estilo Torvalds
 
@@ -105,7 +112,7 @@ Identifique líderes de pensamento e inovadores cujas ideias e métodos possam s
 
 **Objetivo:** Melhorar a eficiência operacional em ambientes Linux por meio da integração com ferramentas de DevOps.
 
-**Descrição:**
+**Descrição Ajustada:**
 - Desenvolva funcionalidades no GPT que permitam a integração com ferramentas populares de DevOps, como Jenkins, Ansible e Docker.
 - Automatize processos comuns de DevOps, como deployment contínuo e gestão de configurações, através de comandos e scripts gerados pelo GPT.
 
