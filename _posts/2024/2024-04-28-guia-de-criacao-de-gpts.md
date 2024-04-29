@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guia de Criação de um GPT Especializado em Linux"
-date: 2024-04-28
+date: 2024-04-28 08:51:00 -0300
 categories: [Tutorial, Linux, AI, GPT]
 tags: [gpt, linux, ai, tutorial, direitos autorais, acessibilidade]
 image: /assets/img/linux-gpt.webp  

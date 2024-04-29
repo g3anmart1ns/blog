@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GPTs Personalizados"
-date: 2024-04-28
+date: 2024-04-28 08:50:00 -0300
 categories: [Tutorial, AI, GPT]
 tags: [gpt, ai, tutorial, guia]
 image: /assets/img/gpt-personalizado.webp  
