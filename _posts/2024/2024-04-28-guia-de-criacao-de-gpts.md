@@ -26,7 +26,8 @@ alt: "Imagem representativa de GPT para Linux"
 14. [Conclusão](#conclusão)
 
 ## Introdução
-Este guia visa orientar desenvolvedores e entusiastas de TI na criação de um GPT customizado para Linux, integrando conhecimentos técnicos com insights de personalidades influentes na área da tecnologia. Este processo não só melhora as habilidades do usuário, mas também amplia as funcionalidades do GPT em aplicações práticas.
+Bem-vindo ao Guia de Criação de um GPT Especializado em Linux, uma jornada através da qual você descobrirá como aproveitar o poder da inteligência artificial para criar uma ferramenta personalizada que transformará sua interação com sistemas Linux. Este guia é projetado não apenas para técnicos e desenvolvedores, mas também para entusiastas de TI que estão ansiosos para explorar como os modelos de linguagem avançados podem aprimorar e automatizar tarefas complexas. Ao integrar métodos inovadores e insights de líderes em tecnologia, este processo não só melhora suas habilidades práticas, mas também expande o potencial do GPT para enfrentar desafios reais no mundo da tecnologia. Prepare-se para mergulhar em um projeto que combina criatividade, técnica e visão estratégica para produzir uma ferramenta verdadeiramente transformadora.
+
 
 ## O que é um GPT e por que é importante criá-lo?
 Um GPT (Generative Pre-trained Transformer) é um modelo de linguagem baseado em inteligência artificial que utiliza aprendizado profundo para produzir texto que é coerente e contextualmente relevante. GPTs são treinados em uma variedade de dados de texto e podem ser personalizados para realizar tarefas específicas. A importância de criar um GPT especializado, como um focado em Linux, reside na sua capacidade de oferecer assistência técnica avançada, automatizar tarefas repetitivas e enriquecer as interações humanas com sistemas computacionais.
