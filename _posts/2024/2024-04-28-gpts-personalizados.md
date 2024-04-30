@@ -4,7 +4,7 @@ title: "Criação de um GPT Personalizado para Especialistas em Linux"
 date: 2024-04-29 18:50:00 -0300
 categories: [Tecnologia, Educação]
 tags: [Linux, GPT, Suporte Técnico]
-image: /assets/img/gpt-personalizado.webp  
+image: /assets/img/linux-gpt.webp
 alt: "Imagem representativa de um GPT personalizado"
 ---
 
