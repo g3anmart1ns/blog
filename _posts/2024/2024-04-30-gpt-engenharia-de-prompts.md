@@ -8,8 +8,6 @@ image: /assets/img/engineering-prompt.webp
 alt: "Guia de Engenharia de Prompts para Modelos GPT"
 ---
 
-# Guia de Engenharia de Prompts para Modelos GPT
-
 ## Sumário
 - [Introdução](#introdução)
 - [Fundamentos dos Modelos GPT](#fundamentos-dos-modelos-gpt)
