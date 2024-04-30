@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Estrutura Proposta para Criar um Guia de GPTs Personalizados"
+title: "Estrutura para Criar um Guia de GPTs Personalizados"
 date: 2024-04-30 12:00:00 -0300
 categories: [Tutorial, AI, GPT]
 tags: [gpt, ai, tutorial, personalização, machine learning, acessibilidade]
