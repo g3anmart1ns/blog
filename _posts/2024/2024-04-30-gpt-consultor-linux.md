@@ -1,6 +1,3 @@
-Claro, vamos alinhar o tutorial com o sumário proposto, garantindo que cada seção mencionada no sumário seja coberta de forma detalhada no conteúdo do tutorial. Aqui está o tutorial revisado e expandido em conformidade com o sumário:
-
-```markdown
 ---
 layout: post
 title: "Guia de Criação de um GPT Especializado em Linux"

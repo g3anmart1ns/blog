@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Guia para Criação de um GPT Personalizado Especializado em Linux"
+title: "Estrutura Proposta: Guia de Criação de um GPT Especializado em Linux"
 date: 2024-05-01 10:00:00 -0300
 categories: [Tutorial, Linux, AI, GPT]
 tags: [gpt, linux, ai, tutorial, machine learning, acessibilidade, devops]
 image: /assets/img/gpt-linux-guide.webp
-alt: "Guia de GPT Personalizado para Linux"
+alt: "Guia de Criação de um GPT Especializado em Linux"
 ---
 
 ## Sumário
