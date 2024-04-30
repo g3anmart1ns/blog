@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".bashrc: Customizando para Eficiência no Shell"
+title: "bashrc: Customizando para Eficiência no Shell"
 date: 2024-04-29 18:50:00 -0300
 categories: [Tecnologia, Educação]
 tags: [Bash, Shell, Scripting, Personalização]
