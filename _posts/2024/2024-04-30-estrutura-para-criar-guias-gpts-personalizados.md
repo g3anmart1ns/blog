@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Estrutura Proposta: Guia de Criação de um GPT Especializado em Linux"
-date: 2024-05-01 10:00:00 -0300
-categories: [Tutorial, Linux, AI, GPT]
-tags: [gpt, linux, ai, tutorial, machine learning, acessibilidade, devops]
+title: "Estrutura Proposta: Estrutura para a criação de um Guia de criação de GPTS"
+date: 2024-04-30 10:00:00 -0300
+categories: [Tutorial, Linux, IA, GPT]
+tags: [gpt, linux, ia, tutorial, machine learning, acessibilidade, devops]
 image: /assets/img/gpt-linux-guide.webp
-alt: "Guia de Criação de um GPT Especializado em Linux"
+alt: "Estrutura para a criação de um Guia de criação de GPTS"
 ---
 
 ## Sumário
