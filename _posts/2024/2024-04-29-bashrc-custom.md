@@ -12,15 +12,17 @@ alt: "Imagem representativa da personalização do arquivo .bashrc para ambiente
 
 - [Os códigos de escape ANSI](#os-códigos-de-escape-ansi)
 - [Configurações Básicas do .bashrc](#configurações-básicas-do-bashrc)
-- [Personalizando o Prompt do Shell](#personalizando-o-prompt-do-shell)
+- [Personalizando o Prompt do Shell](#personalização-do-prompt-do-shell)
 - [Aliases e Funções Úteis](#aliases-e-funções-úteis)
-- [Melhorando a Eficiência e Segurança](#melhorando-a-eficiência-e-segurança)
+- [Melhorando a Eficiência e Segurança](#melhorando-a-eficiência-e-segurança-do-bashrc)
 - [Dicas Avançadas para o Uso do .bashrc](#dicas-avançadas-para-o-uso-do-bashrc)
-- [Manutenção e Solução de Problemas do .bashrc](#manutenção-e-solução-de-problemas-do-bash)
+- [Manutenção e Solução de Problemas do .bashrc](#manutenção-e-solução-de-problemas-do-bashrc)
 - [Conclusão](#conclusão)
 - [Referências](#referências)
 - [Conteúdo do Arquivo .bashrc](#conteúdo-do-arquivo-bashrc)
 - [Prompt usado para criar a imagem da capa](#prompt-usado-para-criar-a-imagem-da-capa)
+
+
 
 ### Os códigos de escape ANSI
 
