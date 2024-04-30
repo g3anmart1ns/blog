@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Estrutura Proposta: Estrutura para a criação de um Guia de criação de GPTS"
+title: "Estrutura Proposta: Estrutura para a criação de um Guia de criação de um GPT consultor em Linux"
 date: 2024-04-30 10:00:00 -0300
 categories: [Tutorial, Linux, IA, GPT]
 tags: [gpt, linux, ia, tutorial, machine learning, acessibilidade, devops]
