@@ -12,10 +12,10 @@ alt: "Exemplos práticos de criação de prompts para TI"
 - [Exemplos de Prompts para Administração de Sistemas Linux](#exemplos-de-prompts-para-administração-de-sistemas-linux)
 - [Exemplos de Prompts para Uso do Editor Vim](#exemplos-de-prompts-para-uso-do-editor-vim)
 - [Exemplos de Prompts para Uso do Ansible](#exemplos-de-prompts-para-uso-do-ansible)
-- [Automatização com Ansible](#automatização-com-ansible)
 - [Exemplos de Prompts para Uso do Terraform](#exemplos-de-prompts-para-uso-do-terraform)
 - [Exemplos de Prompts para Uso da Linguagem HCL](#exemplos-de-prompts-para-uso-da-linguagem-hcl)
 - [Exemplos de Prompts para Computação em Nuvem](#exemplos-de-prompts-para-computação-em-nuvem)
+- [Exemplos de Prompts para Infraestrutura de TI](#exemplos-de-prompts-para-infraestrutura-de-ti)
 - [Prompts para Varreduras em Fóruns sobre Instalação de Pacotes em Linux](#prompts-para-varreduras-em-fóruns-sobre-instalação-de-pacotes-em-linux)
 - [Prompts para Varreduras em Fóruns sobre Práticas de DevOps](#prompts-para-varreduras-em-fóruns-sobre-práticas-de-devops)
 - [Prompts para Varreduras em Fóruns sobre o Uso do Git](#prompts-para-varreduras-em-fóruns-sobre-o-uso-do-git)
@@ -212,7 +212,37 @@ alt: "Exemplos práticos de criação de prompts para TI"
 - **Resposta esperada do GPT**: "[Inserir exemplo de resposta gerada]"
 - **Análise**: O prompt destaca a importância do planejamento de continuidade de negócios e recuperação de desastres, fundamentais para garantir a resiliência e disponibilidade das aplicações.
 
+## Exemplos de Prompts para Infraestrutura de TI
 
+### Exemplo 1: Configuração de Rede
+- **Situação**: Configurar uma rede corporativa segura.
+- **Prompt**: "Descreva o processo passo a passo para configurar uma rede corporativa, incluindo a seleção de hardware, configuração de switches e roteadores, e implementação de VLANs para separação de tráfego."
+- **Resposta esperada do GPT**: "[Inserir exemplo de resposta gerada]"
+- **Análise**: Este prompt ajuda a entender os fundamentos da configuração de uma rede segura e eficiente, enfatizando a importância da segmentação de rede para a segurança.
+
+### Exemplo 2: Gerenciamento de Servidores
+- **Situação**: Manter e monitorar servidores em um ambiente empresarial.
+- **Prompt**: "Explique como configurar e manter servidores Windows e Linux, incluindo a implementação de rotinas de backup e monitoramento de desempenho."
+- **Resposta esperada do GPT**: "[Inserir exemplo de resposta gerada]"
+- **Análise**: Este prompt aborda práticas essenciais de gerenciamento de servidores, enfocando a manutenção preventiva e monitoramento para garantir operações ininterruptas.
+
+### Exemplo 3: Segurança de Infraestrutura
+- **Situação**: Fortalecer a segurança de uma infraestrutura de TI.
+- **Prompt**: "Liste as estratégias e tecnologias chave para proteger uma infraestrutura de TI, incluindo firewalls, sistemas de detecção de intrusão e políticas de acesso."
+- **Resposta esperada do GPT**: "[Inserir exemplo de resposta gerada]"
+- **Análise**: Este prompt concentra-se em medidas de segurança preventivas, vital para proteger infraestruturas críticas contra ameaças.
+
+### Exemplo 4: Automação de Tarefas de TI
+- **Situação**: Automatizar tarefas repetitivas em TI.
+- **Prompt**: "Descreva como implementar scripts de automação para a administração de sistemas de TI, incluindo exemplos de scripts para atualizações automáticas e gerenciamento de logs."
+- **Resposta esperada do GPT**: "[Inserir exemplo de resposta gerada]"
+- **Análise**: Este prompt visa ensinar práticas de automação, essenciais para economizar tempo e reduzir erros humanos em ambientes de TI.
+
+### Exemplo 5: Recuperação de Desastres
+- **Situação**: Planejar e implementar uma estratégia de recuperação de desastres para infraestrutura de TI.
+- **Prompt**: "Explique as etapas necessárias para criar um plano de recuperação de desastres eficaz, incluindo a identificação de ativos críticos, a definição de RTOs e RPOs, e a implementação de soluções de redundância."
+- **Resposta esperada do GPT**: "[Inserir exemplo de resposta gerada]"
+- **Análise**: O prompt ajuda a organizar uma abordagem sistemática para planejamento de recuperação de desastres, essencial para a continuidade dos negócios.
 
 ## Prompts para Varreduras em Fóruns sobre Instalação de Pacotes em Linux
 
