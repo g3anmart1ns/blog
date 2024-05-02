@@ -15,7 +15,6 @@ alt: "Guia Completo de Git e GitHub"
 - [Trabalhando com Repositórios GitHub](#trabalhando-com-repositórios-github)
 - [Boas Práticas e Dicas](#boas-práticas-e-dicas)
 - [Resolução de Problemas Comuns](#resolução-de-problemas-comuns)
-- [Recursos Adicionais](#recursos-adicionais)
 
 # Guia Completo de Git e GitHub - Edição Aprimorada
 
@@ -71,8 +70,3 @@ git commit -m "Resolve conflito de merge"
 ## Resolução de Problemas Comuns
 
 - **SSH vs HTTPS:** Verifique as configurações de SSH ou opte por HTTPS para evitar problemas de conexão.
-
-## Recursos Adicionais
-
-- [Curso de Git Gratuito](URL_para_curso_de_git)
-- [Tutorial de GitKraken](URL_para_tutorial_de_GitKraken)
