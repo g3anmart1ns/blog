@@ -28,14 +28,14 @@ alt: "Guia Detalhado do Comando `ip` no Linux"
 
 # Guia Detalhado do Comando `ip` no Linux
 
-## 1. Introdução ao Comando `ip`
+## Introdução ao Comando `ip`
 ### Histórico e Substituição do `ifconfig`
 O comando `ip` faz parte do pacote `iproute2` no Linux, introduzido nos anos 90 para substituir o antigo conjunto de ferramentas `net-tools`, que incluía o `ifconfig`. O `ip` foi desenvolvido para oferecer um conjunto de ferramentas mais consolidado e poderoso, capaz de lidar com funcionalidades de rede modernas como o IPv6 de forma mais eficiente.
 
 ### Funções Básicas
 O comando `ip` é usado para mostrar e manipular dispositivos, rotas de rede, políticas de roteamento e túneis, oferecendo uma interface mais direta e flexível para a configuração de redes complexas.
 
-## 2. Detalhamento dos Principais Subcomandos
+## Detalhamento dos Principais Subcomandos
 ### `ip addr`
 Utilizado para gerenciar e exibir endereços IP em interfaces de rede. Com ele, você pode adicionar, deletar ou listar endereços IP associados às interfaces.
 
@@ -49,7 +49,7 @@ Essencial para gerenciar tabelas de roteamento. Com este subcomando, é possíve
 - `ip neigh`: mostra ou manipula a tabela ARP, útil para ver e manipular informações sobre máquinas em uma rede local.
 - `ip rule`: permite definir regras que alteram a rota de pacotes com base em vários critérios.
 
-## 3. Exemplos Práticos de Uso
+## Exemplos Práticos de Uso
 ### Configurar Endereços IP
 ```bash
 ip addr add 192.168.1.100/24 dev eth0
@@ -69,11 +69,11 @@ ip addr show
 ip route show
 ```
 
-## 4. Dicas de Troubleshooting
+## Dicas de Troubleshooting
 ### Problemas Comuns
 - **Interfaces inativas**: Verifique o estado das interfaces (`ip link show`) e ative-as se necessário (`ip link set dev eth0 up`).
 - **Problemas de conectividade**: Use `ip route` para verificar se as rotas estão corretas e `ip neigh` para validar a resolução ARP.
 
-## 5. Recursos Adicionais
+## Recursos Adicionais
 - **Documentação Oficial**: [iproute2 Documentation](https://www.man7.org/linux/man-pages/man8/ip.8.html)
 - **Tutoriais Avançados**: Procure tutoriais online que detalham cenários de uso específicos e avançados para um estudo mais aprofundado.
