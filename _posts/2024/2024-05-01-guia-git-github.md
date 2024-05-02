@@ -40,7 +40,7 @@ Git é um sistema de controle de versão distribuído, ideal para gerenciar proj
 ### GitHub
 GitHub é uma plataforma de hospedagem de código que utiliza Git como seu sistema de controle de versão. Facilita a colaboração em projetos de código, revisão de códigos, e integração de ferramentas de equipe.
 
-![Imagem de um repositório GitHub](URL_para_imagem_ilustrativa)
+![Imagem de um repositório GitHub](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)
 
 ## 2. Configuração e Instalação
 
