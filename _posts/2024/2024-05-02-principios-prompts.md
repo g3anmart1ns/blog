@@ -4,7 +4,7 @@ title: "Melhorando a Interação com Modelos de Linguagem: Princípios Estrutura
 date: 2024-05-01 10:00:00 -0300  
 categories: [ChatGPT, IA, Interação Humano-Computador]  
 tags: [gpt, prompts, interação, princípios]  
-image: /assets/img/structured-principles.webp.webp  
+image: /assets/img/structured-principles.webp 
 alt: "Princípios Estruturados para a Criação de Prompts"  
 ---
 

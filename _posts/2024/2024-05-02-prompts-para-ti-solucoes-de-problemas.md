@@ -4,7 +4,7 @@ title: "Suluções de problemas: Exemplos práticos de criação de prompts para
 date: 2024-04-30 22:30:00 -0300
 categories: [ChatGPT, IA, Prompts]
 tags: [gpt, prompts, ia]
-image: /assets/img/prompts-ti-err.webp
+image: /assets/img/prompts-ti.webp
 alt: "Exemplos práticos de criação de prompts para TI para soluções de problemas"
 ---
 
