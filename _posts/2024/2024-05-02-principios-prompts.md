@@ -114,6 +114,48 @@ Esses delimitadores, quando usados de maneira consistente e estratégica, não s
 
 Dividir tarefas complexas em etapas menores é fundamental para facilitar o entendimento e a execução pelo modelo.
 
+### Exemplo para Desenvolvedores de IA:
+```
+### Instrução ###
+Desenvolva um modelo de aprendizado de máquina para prever preços de ações a partir de dados históricos.
+
+### Etapas ###
+1. **Coleta de Dados**: Obtenha dados históricos de preços de ações de várias fontes confiáveis.
+2. **Preparação de Dados**: Limpe e normalize os dados para garantir que estão prontos para o processamento.
+3. **Desenvolvimento do Modelo**: Escolha e configure um modelo de regressão adequado para a previsão de preços.
+4. **Treinamento do Modelo**: Treine o modelo usando os dados preparados, ajustando parâmetros conforme necessário.
+5. **Avaliação e Testes**: Avalie a precisão do modelo usando um conjunto de dados de teste e ajuste o modelo para melhorar os resultados.
+6. **Implementação**: Implemente o modelo em um sistema de produção para fazer previsões em tempo real.
+```
+
+### Exemplo para Analistas de Dados:
+```
+### Instrução ###
+Analise grandes conjuntos de dados de redes sociais para identificar tendências de comportamento do consumidor.
+
+### Etapas ###
+1. **Extração de Dados**: Use APIs para coletar dados de várias plataformas de redes sociais.
+2. **Limpeza de Dados**: Remova dados duplicados ou irrelevantes para a análise.
+3. **Análise Exploratória**: Use estatísticas descritivas e visualizações para explorar os dados e identificar padrões.
+4. **Modelagem Estatística**: Aplique modelos estatísticos para testar hipóteses ou prever comportamentos.
+5. **Interpretação dos Resultados**: Traduza os resultados estatísticos em insights acionáveis para estratégias de marketing.
+6. **Relatório**: Elabore um relatório detalhado com visualizações e recomendações baseadas nos dados analisados.
+```
+
+### Exemplo para Especialistas em Ética em IA:
+```
+### Instrução ###
+Avalie os aspectos éticos do uso de algoritmos de IA em processos de recrutamento.
+
+### Etapas ###
+1. **Identificação de Problemas**: Liste possíveis problemas éticos associados ao uso de IA no recrutamento.
+2. **Pesquisa Regulatória**: Investigue regulamentações existentes relacionadas à ética em IA e recrutamento.
+3. **Avaliação de Impacto**: Analise como diferentes algoritmos podem afetar a equidade e a transparência.
+4. **Desenvolvimento de Diretrizes**: Crie diretrizes para minimizar riscos éticos ao usar IA em recrutamento.
+5. **Implementação de Controles**: Sugira métodos para implementar as diretrizes de ética na prática diária das empresas.
+6. **Monitoramento e Revisão**: Estabeleça um plano para revisar e atualizar as diretrizes conforme novas tecnologias e desafios surgem.
+```
+
 ### Exemplo para Fotógrafos:
 ```
 ### Instrução ###
