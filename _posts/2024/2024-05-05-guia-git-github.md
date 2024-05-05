@@ -174,6 +174,8 @@ A segurança no acesso aos repositórios é crítica para proteger o código e a
 
 **Exemplo Prático**: Em um projeto de desenvolvimento de uma aplicação web, cada novo recurso deve passar por um processo de pull request, onde pelo menos dois outros desenvolvedores devem revisar e aprovar as mudanças antes do merge. A equipe utiliza comentários em linha nos pull requests para discutir implementações específicas e sugere melhorias diretamente no código, o que aumenta a compreensão compartilhada e melhora contínua do base de código.
 
+## Exemplos Práticos
+
 ### Exemplo Prático 1: Uso de Branches em um Projeto Colaborativo
 
 **Cenário**: Você está trabalhando em um projeto de software com uma equipe. O projeto está na fase inicial de desenvolvimento e vocês decidiram adicionar uma nova funcionalidade relacionada a autenticação de usuários.
