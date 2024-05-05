@@ -1,7 +1,7 @@
 ---
 title: "Configurando e Usando Chave SSH no GitHub (Linux)"
 author: "Gean Martins"
-date: 2024-05-05 18:50:00 -0300
+date: 2024-05-05 17:00:00 -0300
 categories: [Git, Github]
 tags: [git, github, ssh]
 image: /assets/img/github-ssh.webp
