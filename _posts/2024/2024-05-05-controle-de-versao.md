@@ -34,7 +34,7 @@ Entender os três estados dos arquivos no Git é crucial:
 - **Consolidado (Committed)**: Dados seguramente armazenados em seu diretório local do Git.
 
 ### Diagrama dos Estados do Git
-![Diagrama simplificado dos estados do Git](https://linkparaumdiagrama.com/git-states.png)
+![Diagrama simplificado dos estados do Git](https://git-scm.com/book/en/v2/images/areas.png)
 
 ## Configuração e Uso do Git
 
