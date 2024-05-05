@@ -23,7 +23,7 @@ image: /assets/img/guia-git.webp
 ## O Que é Git?
 Git é um sistema de controle de versão distribuído que permite aos desenvolvedores rastrear mudanças em seus arquivos e coordenar o trabalho entre múltiplas pessoas. É fundamental para o gerenciamento eficiente de projetos de software, permitindo que múltiplas versões de um projeto coexistam e facilitando a colaboração em equipe. Por meio de recursos como 'branching' e 'merging', Git oferece uma flexibilidade robusta no gerenciamento de alterações, permitindo que equipes distribuídas trabalhem em paralelo antes de integrar seus esforços de maneira controlada e eficiente. Esta capacidade torna o Git indispensável em ambientes modernos de desenvolvimento ágil."
 
-## 2. Comandos Fundamentais do Git
+## Comandos Fundamentais do Git
 
 Git é operado principalmente através de comandos de linha de comando. Aqui estão alguns dos mais usados, categorizados por funcionalidade:
 
