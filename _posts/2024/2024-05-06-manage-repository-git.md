@@ -2,8 +2,8 @@
 title: "Guia: Gerenciamento de Repositório Git"
 author: "Gean Martins"
 date: 2024-05-06 18:00:00 -0300
-categories: [Git, Github, Rebase, Merg]
-keywords: ["Git", "GitHub", "Rebase", "Merge"]
+categories: [Git, Github]
+keywords: ["Git", "GitHub", "Erros Git"]
 image: /assets/img/git-manager.webp
 ---
 
