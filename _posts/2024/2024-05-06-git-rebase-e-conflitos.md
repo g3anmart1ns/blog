@@ -14,9 +14,9 @@ abstract: |
 1. [**Introdução**](#introdução)
 2. [**Criando um Repositório Local**](#criando-um-repositório-local)
 3. [**Criando um Repositório no GitHub**](#criando-um-repositório-no-github)
-4. [**Conexão do Repositório Local com o GitHub**](#conexão-do-repositório-local-com-o-github)
+4. [**Conexão do Repositório Local com o GitHub**](#conectando-o-repositório-local-ao-repositório-no-github)
 5. [**Verificações e Dicas**](#verificações-e-dicas)
-6. [**Solucionando Problemas**](#solucionando-problemas)
+6. [**Solucionando Problemas**](#soluções-de-problemas)
 7. [**Exemplos Práticos**](#exemplos-práticos)
 8. [**Conclusão**](#conclusão)
 
