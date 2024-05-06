@@ -10,17 +10,8 @@ image: /assets/img/git-manager.webp
 # Sumário
 
 1. [Introdução](#introdução)
-2. [Configuração Inicial do Repositório](#configuração-inicial-do-repositório)
-    - [Criar e inicializar o repositório](#criar-e-inicializar-o-repositório)
-    - [Preparar o arquivo inicial e commitar](#preparar-o-arquivo-inicial-e-commitar)
-    - [Configurar o repositório remoto](#configurar-o-repositório-remoto)
-3. [Pull Inicial e Configuração de Rebase](#pull-inicial-e-configuração-de-rebase)
-4. [Resolução de Conflitos e Continuação do Rebase](#resolução-de-conflitos-e-continuação-do-rebase)
-5. [Push para o Repositório Remoto](#push-para-o-repositório-remoto)
+2. [Criação e configuração do repositório](#criação-e-configuração-do-repositório)
 6. [Exemplos Práticos de Resolução de Conflitos](#exemplos-práticos-de-resolução-de-conflitos)
-    - [Exemplo 1: Conflito em Arquivo de Código](#exemplo-1-conflito-em-arquivo-de-código)
-    - [Exemplo 2: Conflito em Documento de Configuração](#exemplo-2-conflito-em-documento-de-configuração)
-    - [Exemplo 3: Conflito em Script Shell](#exemplo-3-conflito-em-script-shell)
 7. [Considerações Finais](#considerações-finais)
 
 ## Introdução
@@ -33,8 +24,9 @@ Além disso, o guia inclui exemplos práticos de resolução de conflitos em dif
 
 Com este guia, esperamos fornecer-lhe as ferramentas necessárias para aproveitar ao máximo as capacidades do Git, facilitando a gestão de seus projetos de software e aumentando a colaboração e a produtividade de sua equipe.
 
+## Criação e configuração do repositório
 
-## Configuração Inicial do Repositório
+### Configuração Inicial do Repositório
 
 - **Criar e inicializar o repositório:**
   ```bash
