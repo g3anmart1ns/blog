@@ -232,7 +232,7 @@ Embora o globbing seja uma ferramenta poderosa para manipulação de arquivos em
 - **Limites do Shell**: Dependendo do shell utilizado (como Bash, Zsh, etc.), existem limites para a complexidade dos padrões que podem ser efetivamente processados.
 
 
-## Dicas e Truques para Dominar o Globbing
+## Dicas e Truques
 
 ### 1. **Uso de Citações para Controle de Expansão de Globbing**
    - **Explicação**: Ao usar globbing, o shell tenta expandir qualquer caractere curinga para corresponder a arquivos e diretórios. Para evitar essa expansão automática e tratar os caracteres como literais em comandos, use citações simples ou duplas.
