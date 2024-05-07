@@ -25,15 +25,13 @@ summary: "Este post oferece uma introdução ao monitoramento de TI e explora qu
 - [Conclusão](#conclusão)
 
 
-## Post 1: Introdução ao Monitoramento de TI e Ferramentas Essenciais
-
 ### A Importância do Monitoramento de TI
 
 No mundo da tecnologia da informação, o monitoramento não é apenas uma boa prática — é uma necessidade. Em ambientes onde segundos podem significar grandes perdas financeiras ou problemas de segurança, ter um sistema robusto de monitoramento de TI é essencial. Esses sistemas permitem que equipes de TI detectem e respondam rapidamente a problemas, otimizem o desempenho e garantam que os serviços críticos estejam sempre disponíveis para os usuários finais.
 
 Além disso, um bom sistema de monitoramento fornece dados valiosos que ajudam na tomada de decisões estratégicas, na redução de custos ao identificar recursos subutilizados e na melhoria contínua do ambiente de TI.
 
-### Conhecendo as Ferramentas: Prometheus, Alertmanager, Grafana e Rocket.Chat
+### Conhecendo as Ferramentas
 
 Para construir um sistema de monitoramento eficaz, várias ferramentas podem ser utilizadas. Neste post, vamos introduzir quatro ferramentas essenciais que, juntas, formam uma solução de monitoramento completa:
 
