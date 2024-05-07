@@ -16,7 +16,7 @@ abstract: "Este guia fornece uma visão abrangente do uso de globbing em sistema
 4. [Casos Avançados de Globbing](#casos-avançados-de-globbing)
 5. [Dicas e Truques](#dicas-e-truques)
 6. [Estudos de Caso](#estudos-de-caso)
-7. [FAQ](#faq)
+7. [FAQ](#faq-sobre-globbing)
 8. [Recursos Adicionais](#recursos-adicionais)
 9. [Conclusão](#conclusão)
 
@@ -320,9 +320,7 @@ find /etc -type f -name "*.conf" -mtime -7 -exec cp {} "${backup_dir}" \;
 
 Esses estudos de caso mostram como o globbing pode ser integrado em scripts e tarefas automatizadas para organizar dados, realizar backups seguros e gerenciar o uso do espaço em disco. Cada caso apresenta uma maneira prática de aplicar globbing para resolver problemas comuns enfrentados por profissionais de TI, demonstrando sua flexibilidade e poder em ambientes de produção real.
 
-## Secção de Perguntas Frequentes (FAQ)
-
-### FAQ sobre Globbing
+## FAQ sobre Globbing
 
 1. **P: Posso usar globbing para renomear arquivos em massa?**
    R: Sim, mas indiretamente. Você pode combinar globbing com um loop `for` para renomear arquivos. Por exemplo:
