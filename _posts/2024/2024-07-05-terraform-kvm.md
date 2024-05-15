@@ -326,7 +326,7 @@ output "ip" {
 ```
 
 ### Configuração do cloud-init
-```
+```yml
 #cloud-config
 
 # Usuários e grupos
@@ -371,7 +371,7 @@ package_update: true
 package_upgrade: true
 ```
 ### Configuração do terraform.tfvars
-```
+```hcl
 vm_template = {
   name            = "tf-vm-01"
   cpu             = 2
