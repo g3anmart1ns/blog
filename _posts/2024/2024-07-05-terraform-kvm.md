@@ -325,6 +325,67 @@ output "ip" {
 }
 ```
 
+### Configuração do cloud-init
+```
+#cloud-config
+
+# Usuários e grupos
+users:
+  - name: gean
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    groups: users, wheel
+    shell: /bin/bash
+    ssh-authorized-keys:
+      - ${file("~/.ssh/tfvms.pub")}
+
+# Desativa a senha para todos os usuários, exceto root
+disable_root: false
+ssh_pwauth: false
+
+# Configuração da senha do root permitida apenas no console
+chpasswd:
+  list: |
+    root:root
+  expire: False
+
+# Garantir que o acesso por senha esteja desativado para todos, exceto para o console
+system_info:
+  default_user:
+    lock_passwd: true
+
+# Configurações de segurança para SSH
+sshd_config:
+  PermitRootLogin: prohibit-password
+  PasswordAuthentication: no
+  ChallengeResponseAuthentication: no
+  UsePAM: yes
+  PermitEmptyPasswords: no
+
+# Pacotes a serem instalados
+packages:
+  - qemu-guest-agent
+  - bash-completion
+
+# Configurações de atualização de pacotes
+package_update: true
+package_upgrade: true
+```
+### Configuração do terraform.tfvars
+```
+vm_template = {
+  name            = "tf-vm-01"
+  cpu             = 2
+  memory          = 2048
+  disksize        = 64
+  storage_pool    = "default"
+  os_image_name   = "tf_vm_01_image.qcow2"
+  os_volume_name  = "tf_vm_01_volume.qcow2"
+  network_name    = "default"
+  cloud_init_file = "cloud-init.yml"
+  os_image_url    = "/home/gean/kvm/templates/OL9U3_x86_64-kvm-b220.qcow2"
+}
+```
+
 ### Execução dos comandos Terraform
 ```bash
 # Inicializa o Terraform, formata os arquivos de configuração, valida, planeja e aplica a configuração para criar a VM.
