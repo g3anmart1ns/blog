@@ -90,9 +90,9 @@ $ virsh pool-info default
 ### Ajustar permissões dos diretórios
 ```bash
 # Muda a propriedade dos diretórios para o usuário do serviço de virtualização, permitindo o acesso adequado.
-sudo chown libvirt-qemu:kvm /home/gean/kvm/images/ -R
-sudo chown libvirt-qemu:kvm /home/gean/kvm/template/ -R
-sudo chown libvirt-qemu:kvm /home/gean/kvm/isos/ -R
+sudo chown root:root /home/gean/kvm/images/ -R
+sudo chown root:root /home/gean/kvm/templates/ -R
+sudo chown root:root /home/gean/kvm/isos/ -R
 ```
 
 ### Configurar e aplicar perfil AppArmor para segurança
@@ -106,8 +106,8 @@ $ cat /etc/apparmor.d/libvirt/TEMPLATE.qemu
 
 profile LIBVIRT_TEMPLATE flags=(attach_disconnected) {
   #include <abstractions/libvirt-qemu>
-  /home/gean/kvm/images/**.qcow2 rwk, /home/gean/kvm/images/**.img rwk,
-  /home/gean/kvm/templates/**qcow2 rwk, /home/gean/kvm/templates/**img rwk,
+  /home/gean/kvm/images/** rwk,
+  /home/gean/kvm/templates/** rwk,
 }
 ```
 
@@ -178,13 +178,13 @@ $ terraform -install-autocomplete
 ### Download de imagens de sistema operacional
 ```bash
 # Baixa a imagem do Ubuntu Server 22.04 (LTS) para utilização como template de máquinas virtuais. O arquivo é salvo diretamente no diretório de templates.
-$ wget https://cloud-images.ubuntu.com/releases/22.04/release/ubuntu-22.04-server-cloudimg-amd64.img -P /home/gean/kvm/template/
+$ wget https://cloud-images.ubuntu.com/releases/22.04/release/ubuntu-22.04-server-cloudimg-amd64.img -P /home/gean/kvm/templates/
 
 # Baixa a imagem mais recente do Debian 12 "Bookworm" em formato QCOW2, adequada para uso com sistemas de virtualização como o KVM.
-$ wget https://cdimage.debian.org/images/cloud/bookworm/latest/debian-12-generic-amd64.qcow2 -P /home/gean/kvm/template/
+$ wget https://cdimage.debian.org/images/cloud/bookworm/latest/debian-12-generic-amd64.qcow2 -P /home/gean/kvm/templates/
 
 # Baixa a imagem do Oracle Linux 9 Update 3, uma distribuição otimizada para ambientes de nuvem e virtualizados, em formato QCOW2.
-$ wget https://yum.oracle.com/templates/OracleLinux/OL9/u3/x86_64/OL9U3_x86_64-kvm-b220.qcow2 -P /home/gean/kvm/template/
+$ wget https://yum.oracle.com/templates/OracleLinux/OL9/u3/x86_64/OL9U3_x86_64-kvm-b220.qcow2 -P /home/gean/kvm/templates/
 ```
 
 ## Criando uma máquina virtual
