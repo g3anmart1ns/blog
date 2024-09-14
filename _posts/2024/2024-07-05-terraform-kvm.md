@@ -87,14 +87,6 @@ $ virsh pool-list
 $ virsh pool-info default
 ```
 
-### Ajustar permissões dos diretórios
-```bash
-# Muda a propriedade dos diretórios para o usuário do serviço de virtualização, permitindo o acesso adequado.
-sudo chown root:root /home/gean/kvm/images/ -R
-sudo chown root:root /home/gean/kvm/templates/ -R
-sudo chown root:root /home/gean/kvm/isos/ -R
-```
-
 ### Configurar e aplicar perfil AppArmor para segurança
 ```bash
 $ cat /etc/apparmor.d/libvirt/TEMPLATE.qemu 
@@ -117,6 +109,15 @@ $ cat /etc/apparmor.d/libvirt/TEMPLATE.qemu
 sudo apparmor_parser -r /etc/apparmor.d/libvirt/TEMPLATE.qemu
 sudo systemctl restart libvirtd
 sudo journalctl -xe | grep apparmor
+```
+
+### Alterando o usuário do qemu
+```bash
+# Desabilita drivers de segurança específicos para o KVM. Usar apenas em ambientes de teste.
+$ sudo cp -p /etc/libvirt/qemu.conf{,.dist}
+$ sudo sed -i '/#user = "root"/a user = "gean"' /etc/libvirt/qemu.conf
+$ sudo sed -i '#group = "root"/a group = "gean"' /etc/libvirt/qemu.conf
+$ sudo systemctl restart libvirtd
 ```
 
 ### Opção que desabilita a segurança
