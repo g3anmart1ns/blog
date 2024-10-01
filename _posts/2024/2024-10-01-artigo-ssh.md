@@ -1,6 +1,6 @@
 ---
 title: "SSH: Um Guia Completo e Detalhado"
-date: "2024-10-01"
+date: 2024-10-01 11:33:00 -0300
 description: "Este artigo explora detalhadamente o protocolo SSH, sua arquitetura, criptografia, gerenciamento de chaves e resolução de problemas."
 keywords: ["SSH", "Secure Shell", "criptografia", "chaves SSH", "SCP", "acesso remoto", "servidores", "resolução de problemas", "autenticação sem senha"]
 categories: ["Segurança", "Administração de Sistemas", "Acesso Remoto"]
@@ -8,18 +8,17 @@ categories: ["Segurança", "Administração de Sistemas", "Acesso Remoto"]
 
 ### **Sumário:**
 
-1. **[Parte 1: Arquitetura Cliente/Servidor no SSH](#parte-1-arquitetura-cliente-servidor-no-ssh)**
-2. **[Parte 2: Protocolos de Criptografia no SSH](#parte-2-protocolos-de-criptografia-no-ssh)**
-3. **[Parte 3: Tipos de Chaves no SSH](#parte-3-tipos-de-chaves-no-ssh)**
-4. **[Parte 4: Geração e Gerenciamento de Chaves SSH](#parte-4-geração-e-gerenciamento-de-chaves-ssh)**
-5. **[Parte 5: Principais Usos do SSH](#parte-5-principais-usos-do-ssh)**
-6. **[Parte 6: Autenticação sem Senha com Chave Pública](#parte-6-autenticação-sem-senha-com-chave-pública)**
-7. **[Parte 7: Transferências Seguras de Arquivos com SCP](#parte-7-transferências-seguras-de-arquivos-com-scp)**
-8. **[Parte 8: Resolução de Problemas no SSH (Troubleshooting)](#parte-8-resolução-de-problemas-no-ssh)**
+1. [Parte 1: Arquitetura Cliente/Servidor no SSH](#parte-1-arquitetura-clienteservidor-do-ssh)
+2. [Parte 2: Protocolos de Criptografia no SSH](#parte-2-protocolos-de-criptografia-no-ssh)
+3. [Parte 3: Tipos de Chaves no SSH](#parte-3-tipos-de-chaves-no-ssh-chaves-de-computador-e-chaves-de-usuário)
+4. [Parte 4: Geração e Gerenciamento de Chaves SSH](#parte-4-geração-e-gerenciamento-de-chaves-ssh)
+5. [Parte 5: Principais Usos do SSH](#parte-5-principais-usos-do-ssh)
+6. [Parte 6: Autenticação sem Senha com Chave Pública](#parte-6-autenticação-sem-senha-com-chave-pública)
+7. [Parte 7: Transferências Seguras de Arquivos com SCP](#parte-7-transferências-seguras-de-arquivos-com-scp)
+8. [Parte 8: Resolução de Problemas no SSH (Troubleshooting)](#parte-8-resolução-de-problemas-troubleshooting-no-ssh)
 
 ---
 
-Este cabeçalho e sumário organizam seu artigo de maneira estruturada e clara, proporcionando fácil navegação para o leitor e definindo um contexto descritivo sobre o conteúdo.
 ### **Parte 1: Arquitetura Cliente/Servidor do SSH**
 
 #### O que é SSH?
