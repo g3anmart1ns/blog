@@ -1,12 +1,12 @@
 ---
 title: "SSH: Um Guia Completo e Detalhado"
 date: 2024-10-01 11:33:00 -0300
-description: "Este artigo explora detalhadamente o protocolo SSH, sua arquitetura, criptografia, gerenciamento de chaves e resolução de problemas."
+abstract: "Este artigo explora detalhadamente o protocolo SSH, sua arquitetura, criptografia, gerenciamento de chaves e resolução de problemas."
 keywords: ["SSH", "Secure Shell", "criptografia", "chaves SSH", "SCP", "acesso remoto", "servidores", "resolução de problemas", "autenticação sem senha"]
 categories: ["Segurança", "Administração de Sistemas", "Acesso Remoto"]
 ---
 
-### Sumário:
+### Sumário
 
 1. [Parte 1: Arquitetura Cliente/Servidor no SSH](#parte-1-arquitetura-clienteservidor-do-ssh)
 2. [Parte 2: Protocolos de Criptografia no SSH](#parte-2-protocolos-de-criptografia-no-ssh)
