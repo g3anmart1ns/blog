@@ -6,7 +6,7 @@ keywords: ["SSH", "Secure Shell", "criptografia", "chaves SSH", "SCP", "acesso r
 categories: ["Segurança", "Administração de Sistemas", "Acesso Remoto"]
 ---
 
-### **Sumário:**
+### Sumário:
 
 1. [Parte 1: Arquitetura Cliente/Servidor no SSH](#parte-1-arquitetura-clienteservidor-do-ssh)
 2. [Parte 2: Protocolos de Criptografia no SSH](#parte-2-protocolos-de-criptografia-no-ssh)
@@ -19,7 +19,7 @@ categories: ["Segurança", "Administração de Sistemas", "Acesso Remoto"]
 
 ---
 
-### **Parte 1: Arquitetura Cliente/Servidor do SSH**
+### Parte 1: Arquitetura Cliente/Servidor do SSH
 
 #### O que é SSH?
 
@@ -91,7 +91,7 @@ A arquitetura cliente/servidor do SSH é fundamental para garantir comunicaçõe
 
 ---
 
-### **Parte 2: Protocolos de Criptografia no SSH**
+### Parte 2: Protocolos de Criptografia no SSH
 
 A segurança do SSH depende de uma série de algoritmos e protocolos criptográficos que protegem os dados transmitidos, garantindo confidencialidade, integridade e autenticidade. Esses mecanismos são essenciais para evitar que as informações trocadas entre cliente e servidor sejam interceptadas ou adulteradas durante a comunicação.
 
@@ -180,7 +180,7 @@ O SSH combina várias técnicas criptográficas para proteger as comunicações 
 
 ---
 
-### **Parte 3: Tipos de Chaves no SSH (Chaves de Computador e Chaves de Usuário)**
+### Parte 3: Tipos de Chaves no SSH (Chaves de Computador e Chaves de Usuário)
 
 No SSH, o uso de chaves criptográficas é uma das maneiras mais seguras de autenticação e verificação de identidade. Existem dois tipos principais de chaves utilizadas: **chaves de computador (host keys)** e **chaves de usuários**. Ambos os tipos são cruciais para estabelecer e manter a segurança nas conexões SSH.
 
@@ -274,7 +274,7 @@ As chaves de computador e as chaves de usuário desempenham papéis essenciais n
 
 ---
 
-### **Parte 4: Geração e Gerenciamento de Chaves SSH**
+### Parte 4: Geração e Gerenciamento de Chaves SSH
 
 A **geração e gerenciamento de chaves SSH** é uma prática fundamental para garantir a segurança das conexões entre cliente e servidor, especialmente quando se utiliza a autenticação por chave pública. Nesta parte, exploraremos o processo de geração de pares de chaves, a maneira correta de armazenar e proteger as chaves, além de algumas boas práticas para gerenciar chaves SSH em diferentes ambientes.
 
@@ -399,7 +399,7 @@ A geração e o gerenciamento adequado de chaves SSH são fundamentais para gara
 
 ---
 
-### **Parte 5: Principais Usos do SSH**
+### Parte 5: Principais Usos do SSH
 
 O **SSH (Secure Shell)** é uma ferramenta essencial para a administração de sistemas e redes, usada em várias situações para garantir comunicação segura entre máquinas. Ele é amplamente utilizado por administradores de sistemas, desenvolvedores e equipes de segurança devido à sua flexibilidade e robustez. Nesta seção, abordaremos os principais usos do SSH, desde o acesso remoto até a criação de túneis seguros.
 
@@ -531,7 +531,7 @@ O SSH é uma ferramenta versátil e essencial para o gerenciamento seguro de ser
 
 ---
 
-### **Parte 6: Autenticação sem Senha com Chave Pública**
+### Parte 6: Autenticação sem Senha com Chave Pública
 
 A **autenticação sem senha** com chave pública é uma das funcionalidades mais poderosas e seguras do SSH. Esse método elimina a necessidade de senhas, que podem ser vulneráveis a ataques de força bruta ou roubo. Em vez disso, o SSH utiliza um par de chaves assimétricas para autenticar o usuário de maneira mais eficiente e segura.
 
@@ -658,7 +658,7 @@ A autenticação por chave pública oferece um método seguro e eficiente para a
 
 ---
 
-### **Parte 7: Transferências Seguras de Arquivos com SCP**
+### Parte 7: Transferências Seguras de Arquivos com SCP
 
 O **SCP (Secure Copy Protocol)** é uma ferramenta utilizada para transferir arquivos entre sistemas de maneira segura, utilizando o protocolo SSH. Assim como o SSH, o SCP criptografa os dados durante a transferência, garantindo a confidencialidade e a integridade dos arquivos. Além de ser simples de usar, o SCP é eficiente, sendo amplamente adotado para cópias de arquivos e diretórios em servidores remotos.
 
@@ -785,7 +785,7 @@ O SCP é uma ferramenta simples, eficaz e segura para transferências de arquivo
 
 ---
 
-### **Parte 8: Resolução de Problemas (Troubleshooting) no SSH**
+### Parte 8: Resolução de Problemas (Troubleshooting) no SSH
 
 O uso do SSH, apesar de ser robusto e seguro, pode ocasionalmente apresentar problemas, especialmente em configurações mais complexas ou ambientes de produção. Nesta seção, vamos explorar alguns dos problemas mais comuns que ocorrem ao usar SSH e SCP, suas possíveis causas e soluções. Além disso, serão abordadas boas práticas para evitar erros comuns e garantir uma operação estável e segura.
 
